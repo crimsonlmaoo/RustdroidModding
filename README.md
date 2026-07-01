@@ -1,10 +1,6 @@
 # RustdroidModding
 Modding android games with Rust by loading with the JNI bridge of unity.
 
-# ModTemplate-Rust
-
-A Rust based Android native mod template for IL2CPP/Unity games, targeting `aarch64-linux-android`. Resolves IL2CPP symbols at runtime via `dlsym`, hooks functions with Dobby, and loads via JNI.
-
 ## How it loads
 
 1. The game loads the `.so` via JNI ->`JNI_OnLoad` runs.
