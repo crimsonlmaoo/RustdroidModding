@@ -1,5 +1,3 @@
-# Releasing soon (as there is some work to do). [06/30/26 (sometime today)]
-
 # RustdroidModding
 Modding android games with Rust by loading with the JNI bridge of unity.
 
